@@ -1,21 +1,41 @@
 ### Hi there 👋
 
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
+#### I'm a Software Engineer working in Hyderabad, India. 
 
-<!-- <a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
+- 🔭 Bachelor's degree in **Computer Science** from BVRIT
+- ⚙️ Currently work with: Go, Docker, Kubernetes, PostgreSQL, Azure
+- ⚙️ Previously worked with: C#, .Net, Angular, Selenium, MSSQL   
+- 🌱 Currently interested and learning **Backend and Devops**
+- 💻 I use **Linux, Neovim** with i3 WM for development
+- 💬 I'm mostly active within the **Go**, **Neovim** communities
+
+### 📫 Get in Touch
 
 <a href="https://www.linkedin.com/in/rahulmysore23/">
-  <img align="left" alt="Rahul's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rahul | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- 
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Rahul's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
+<a href="https://github.com/rahulmysore23">
+  <img align="left" alt="Rahul | Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/rahulmysore23">
+  <img align="left" alt="Rahul | LinkedIn" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+
+<a href="https://soundcloud.com/unravelers">
+  <img align="left" alt="Rahul | LinkedIn" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+### 📚 Looking for my Resume? E-Mail me!
+Email: rahulmysore23@gmail.com
+
+[linkedIn]: https://www.linkedin.com/in/rahulmysore23/
+[github]: https://github.com/rahulmysore23
+[hackerrank]: https://www.hackerrank.com/rahulmysore23
 
 <!--
 **rahulmysore23/rahulmysore23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
