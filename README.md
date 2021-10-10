@@ -9,7 +9,7 @@
 - 💻 I use **Linux, Neovim** with i3 WM for development
 - 💬 I'm mostly active within the **Go**, **Neovim** communities
 
-### 📫 Get in Touch
+#### 📫 Get in Touch
 
 <a href="https://www.linkedin.com/in/rahulmysore23/">
   <img align="left" alt="Rahul | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,7 +30,7 @@
 <br />
 <br />
 
-### 📚 Looking for my Resume? E-Mail me!
+#### 📚 Looking for my Resume? E-Mail me!
 Email: rahulmysore23@gmail.com
 
 [linkedIn]: https://www.linkedin.com/in/rahulmysore23/
