@@ -20,22 +20,17 @@
 </a>
 
 <a href="https://www.hackerrank.com/rahulmysore23">
-  <img align="left" alt="Rahul | LinkedIn" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  <img align="left" alt="Rahul | Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 
 <a href="https://soundcloud.com/unravelers">
-  <img align="left" alt="Rahul | LinkedIn" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+  <img align="left" alt="Rahul | Soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
 </a>
 
-<br />
 <br />
 
 #### 📚 Looking for my Resume? E-Mail me!
 Email: rahulmysore23@gmail.com
-
-[linkedIn]: https://www.linkedin.com/in/rahulmysore23/
-[github]: https://github.com/rahulmysore23
-[hackerrank]: https://www.hackerrank.com/rahulmysore23
 
 <!--
 **rahulmysore23/rahulmysore23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
