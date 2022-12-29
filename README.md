@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer working in Hyderabad, India. 
+#### I'm a Software Engineer with 4 years of Experience from India. 
 
-- 🔭 Bachelor's degree in **Computer Science** from BVRIT
-- ⚙️ Currently working with: Go, Docker, Kubernetes
+- 🔭 Bachelor's degree in **Computer Science**
+- ⚙️ Working with: Go, Docker, Kubernetes
 
 #### 📫 Get in Touch
 
