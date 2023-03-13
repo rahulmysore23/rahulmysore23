@@ -3,7 +3,7 @@
 #### I'm a Software Engineer with 4 years of Experience from India. 
 
 - 🔭 Bachelor's degree in **Computer Science**
-- ⚙️ Working with: Go, Docker, Kubernetes
+- ⚙️ Working with: Go, Linux, Docker, Kubernetes
 
 #### 📫 Get in Touch
 
