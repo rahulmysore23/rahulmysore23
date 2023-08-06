@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer with 5 years of Experience from India. 
+#### I'm a Software Engineer with 5 years of Experience with 4 years of it in startups. 
 
-- 🔭 Bachelor's degree in **Computer Science**
-- ⚙️ Working with: Go, Linux, Docker, Kubernetes
+- 🔭 Pursuing Masters degree in **Computer Science**
+- ⚙️ Working with Go, Linux, Docker, Kubernetes
 
 #### 📫 Get in Touch
 
@@ -15,18 +15,3 @@
 
 #### 📚 Looking for my Resume? E-Mail me!
 Email: rahulmysore23@gmail.com
-
-<!--
-**rahulmysore23/rahulmysore23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
