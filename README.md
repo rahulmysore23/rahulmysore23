@@ -2,7 +2,7 @@
 
 #### I'm a Software Engineer with 5 years of Experience with 4 years of it in startups. 
 
-- 🔭 Pursuing Masters degree in **Computer Science**
+- 🔭 Pursuing Masters degree in **Computer Science**. [College Github](https://github.com/rmf9t).
 - ⚙️ Working with Go, Linux, Docker, Kubernetes
 
 #### 📫 Get in Touch
