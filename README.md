@@ -13,5 +13,9 @@
 
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahulmysore23&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" alt="rahulmysore23" /></p>
+
+<br />
+
 #### 📚 Looking for my Resume? E-Mail me!
 Email: rahulmysore23@gmail.com
